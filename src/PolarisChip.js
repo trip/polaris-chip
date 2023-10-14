@@ -40,8 +40,8 @@ export class PolarisChip extends LitElement {
 
   constructor() {
     super();
-    this.name = '';
-    this.link = 'http://ist.psu.edu';
+    this.name = 'Football';
+    this.link = 'https://www.psu.edu/news/research';
     this.active = false;
   }
 
